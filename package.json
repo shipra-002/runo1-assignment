@@ -1,0 +1,26 @@
+{
+  "name": "runo1-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shipra-002/runo1-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shipra-002/runo1-assignment/issues"
+  },
+  "homepage": "https://github.com/shipra-002/runo1-assignment#readme",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1",
+    "nodemon": "^2.0.20"
+  }
+}
